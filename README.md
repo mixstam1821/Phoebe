@@ -1,4 +1,4 @@
-# Phoebe: Relationship Explorer
+# Phoebe: Relationship ML Explorer
 
 **Phoebe** is a visual, no-code app for instantly exploring what drives your data.  
 Upload any CSV or Excel file, select your target and input variables, and let Phoebe reveal which variables best explain your outcomes using machine learning.
