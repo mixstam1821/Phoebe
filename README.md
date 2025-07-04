@@ -7,13 +7,13 @@ Upload any CSV or Excel file, select your target and input variables, and let Ph
 
 ## Features
 
-- **Upload Data:** Accepts `.csv`, `.xls`, and `.xlsx` files. See a sample: assets/meteoOlympus_40_22.csv (ERA5 meteorology data somewhere at mount Olympus, Greece)
+- **Upload Data:** Accepts `.csv`, `.xls`, and `.xlsx` files. Ensure that the columns contain the data to investigate. See a sample: assets/meteoOlympus_40_22.csv (ERA5 meteorology data somewhere at mount Olympus, Greece)
 - **Model Choices:** Random Forest, Logistic Regression, Linear Regression, and XGBoost.
 - **Automatic Data Cleaning:** Handles missing and non-numeric data for you.
 - **Feature Importance:** Interactive bar chart of most predictive variables.
 - **Correlation Heatmap:** Colorful, interactive matrix with hover and colorbar.
 - **Partial Dependence Plots:** Visualize how top features influence predictions.
-- **Export:** Download a static HTML report or save a dashboard screenshot.
+- **Export:** Download a screenshot of the current state of the app as .pdf.
 
 ---
 ![Phoebe Screenshot](assets/Screenshot_20250704_034737.png)
